@@ -6,7 +6,7 @@
 - JS
 
 ## In-Class Assignments 
-- [ICA1](file:///Users/laurenkamm/Downloads/ICA1%20--%20How%20to%20Search%20(1).pdf)
+- [ICA1](username.github.io/ica/ICA1.html)
 - ICA2
 - ICA3
 - ICA4
