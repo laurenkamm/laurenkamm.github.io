@@ -6,7 +6,7 @@
 - JS
 
 ## In-Class Assignments 
-- [ICA1](https://laurenkamm.github.io/ica/ICA1.html)
+- [ICA1](https://laurenkamm.github.io/ica/ica1.pdf)
 - ICA2
 - ICA3
 - ICA4
