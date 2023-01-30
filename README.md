@@ -7,7 +7,7 @@
 
 ## In-Class Assignments 
 - [ICA1](https://laurenkamm.github.io/ica/ica1.pdf)
-- ICA2
+- [ICA2](https://laurenkamm.github.io/ica/ica2.pdf)
 - ICA3
 - ICA4
 - ICA5
