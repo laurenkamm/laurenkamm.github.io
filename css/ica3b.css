@@ -7,11 +7,11 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #3b68d1;
 }
 
 body {
-  width: 70%;
+  width: 100%;
   min-width: 800px;
   margin: 0 auto;
 }
@@ -20,18 +20,18 @@ body {
 
 h1, h2, h3 {
   font-family: 'Cinzel Decorative', cursive;
-  color: #2a2a2a;
+  color: #4c4c4c;
 }
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2a2a2a;
+  color: #282727;
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
-  text-shadow: 2px 2px 10px black;
+  text-shadow: 2px 2px 10px rgb(36, 36, 84);
 }
 
 h2 {
@@ -57,12 +57,12 @@ header {
 }
 
 body > * {
-  background-color: red;
-  padding: 1%;
+  background-color: rgba(149, 162, 232,0.5);
+  padding: 0%;
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0,255,0,0.5);
+  background-color: rgba(101, 115, 191, 0.5);
   padding: 1%;
 }
 
@@ -71,6 +71,7 @@ h1 {
   text-transform: uppercase;
 }
 
+
 header img {
   display: block;
   height: 60px;
@@ -78,7 +79,7 @@ header img {
 }
 
 nav {
-  height: 50px;
+  height: 60px;
   flex: 100%;
   display: flex;
 }
@@ -103,7 +104,7 @@ nav a, nav span {
   line-height: 1.7;
   text-transform: uppercase;
   text-decoration: none;
-  color: black;
+  color: rgb(11, 32, 82);
 
 }
 
@@ -126,7 +127,7 @@ aside {
 aside a {
   display: block;
   float: left;
-  width: 50%;
+  width: 10%;
 }
 
 aside img {
@@ -134,5 +135,11 @@ aside img {
 }
 
 footer {
-  margin-top: 10px;
+  margin-top: 100px;
+}
+
+.grid {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
