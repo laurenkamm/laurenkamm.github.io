@@ -10,7 +10,7 @@
 - [ICA2](https://laurenkamm.github.io/ica/ica2.pdf)
 - [ICA3A](https://laurenkamm.github.io/ica/ica3a.html)
 - [ICA3B](https://laurenkamm.github.io/ica3-part2/ica3b.html)
-- ICA4
+- [ICA4](https://laurenkamm.github.io/ica/ica4.html)
 - ICA5
 - ICA6
 - ICA7
