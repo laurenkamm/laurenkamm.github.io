@@ -1,7 +1,7 @@
 # laurenkamm.github.io
 
 ## Projects
-- [HTML](https://laurenkamm.github.io/html-midterm)
+- [HTML](https://laurenkamm.github.io/html-midterm/page5.html)
 - CSS
 - JS
 
