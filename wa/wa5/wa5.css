@@ -1,0 +1,33 @@
+#background {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#ScoreBoard {
+    width: 500px;
+}
+
+#Logo {
+    width: 200px;
+}
+
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+  
+  .overlay {
+    position: absolute;
+  }
+  
+  .top-left {
+    top: 0;
+    left: 0;
+  }
+  
+  .top-right {
+    top: 0;
+    right: 0;
+    padding-right: 10mm;
+  }
