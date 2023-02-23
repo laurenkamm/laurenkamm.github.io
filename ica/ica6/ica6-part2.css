@@ -45,32 +45,32 @@ body{
 
 
 #no0{
-    grid-area: 5 / 2;
-}
-#no1{
-    grid-area: 4 / 1;
-}
-#no2{
     grid-area: 4 / 2;
 }
+#no1{
+    grid-area: 1 / 1;
+}
+#no2{
+    grid-area: 1 / 2;
+}
 #no3{
-    grid-area: 4 / 3;
+    grid-area: 1 / 3;
 }
 #no4{
-    grid-area: 3 / 1;
-}
-#no5{
-    grid-area: 3 / 2;
-}
-#no6{
-    grid-area: 3 / 3;
-}
-#no7{
     grid-area: 2 / 1;
 }
-#no8{
+#no5{
     grid-area: 2 / 2;
 }
-#no9{
+#no6{
     grid-area: 2 / 3;
+}
+#no7{
+    grid-area: 3 / 1;
+}
+#no8{
+    grid-area: 3 / 2;
+}
+#no9{
+    grid-area: 3 / 3;
 }
