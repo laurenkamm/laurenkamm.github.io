@@ -13,7 +13,7 @@
 - [ICA4](https://laurenkamm.github.io/ica/ica4.html)
 - [ICA5](https://laurenkamm.github.io/ica/ica5/ica5.html)
 - [ICA6](https://github.com/laurenkamm/laurenkamm.github.io/tree/main/ica/ica6)
-- ICA7
+- [ICA7](https://laurenkamm.github.io/ica/ica7/ica7.html)
 - ICA8
 - ICA9
 - ICA10
@@ -29,7 +29,7 @@
 - [WA3](https://laurenkamm.github.io/wa/wa3.html)
 - [WA4](https://laurenkamm.github.io/wa/wa4/wa4.html)
 - [WA5](https://laurenkamm.github.io/wa/wa5/wa5.html)
-- WA6
+- [WA6]((https://laurenkamm.github.io/wa/wa6/wa6.html))
 - WA7
 - WA8
 - WA9
