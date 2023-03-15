@@ -2,7 +2,7 @@
 
 ## Projects
 - [HTML](https://laurenkamm.github.io/html-midterm/page5.html)
-- CSS
+- [CSS] (https://laurenkamm.github.io/css/css-midterm/index.html)
 - JS
 
 ## In-Class Assignments 
