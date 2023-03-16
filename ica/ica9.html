@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #button {
+            border: 5px solid magenta;
+            border-radius: 20px;
+            background-color: aqua;
+            padding: 25px 50px;
+            width: 250px;
+            font-size: 50px;
+            text-align: center;
+        }
+      
+    </style>
+</head>
+<body>
+    <div id="button">
+        <p>Click Me!</p>
+    </div>
+<br>
+    <div id="takeSurvey"></div>
+        <form id="survey">
+        <select id = "options">
+            <option value = "">How was your day today?</option>
+            <option value = "Glad to hear it!">Amazing!</option>
+            <option value = "Awesome!">Good</option>
+            <option value = "Well, at least it wasn't too bad!">Eh</option>
+            <option value = "Sorry, hope it gets better!">Bad</option>
+        </select>
+     </form>
+    <p id="answer"></p>
+    </div>
+
+    <script>
+        console.log("Hello, World!");
+        let button = document.querySelector("#button");
+        //console.log(btn);
+
+        function changeBTN() {
+            // console.log("This Worked!");
+            button.textContent = "Hi there!";
+            button.style.backgroundColor = "magenta";
+            button.style.border = "5px solid aqua";
+            button.style.color = "white";
+            button.style.padding = "75px 50px"; 
+        }
+        button.addEventListener('click', changeBTN);
+        
+
+        document.getElementById("survey").onchange=function() {
+            option = document.getElementById("options").value;
+            document.getElementById("answer").innerHTML = option;
+        }
+
+      
+
+
+    </script>
+    
+</body>
+</html>
