@@ -2,7 +2,7 @@
 
 ## Projects
 - [HTML](https://laurenkamm.github.io/html-midterm/page5.html)
-- [CSS] (https://laurenkamm.github.io/css/css-midterm/index.html)
+- [CSS](https://laurenkamm.github.io/css/css-midterm/index.html)
 - JS
 
 ## In-Class Assignments 
@@ -15,7 +15,7 @@
 - [ICA6](https://github.com/laurenkamm/laurenkamm.github.io/tree/main/ica/ica6)
 - [ICA7](https://laurenkamm.github.io/ica/ica7/ica7.html)
 - ICA8
-- ICA9
+- [ICA9](https://laurenkamm.github.io/ica/ica9.html)
 - ICA10
 - ICA11
 - ICA12
