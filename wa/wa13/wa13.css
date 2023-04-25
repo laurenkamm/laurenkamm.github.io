@@ -1,0 +1,30 @@
+.countBtn{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.resetBtn{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.countBtn button:hover{
+    border: blue 5px solid;
+}
+
+.resetBtn button:hover{
+    border: red 5px solid;
+}
+
+.countVol{
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border: black 2px solid;
+    width: fit-content;
+}
+
+h2 {
+    margin-left: 10px;
+}
